@@ -14,8 +14,6 @@ int ReadData(string line)
     return number;
 }
 
-
-
 //Расстояние между двумя точками
 double CalcData(int x1, int x2, int y1, int y2, int z1, int z2)
 {
